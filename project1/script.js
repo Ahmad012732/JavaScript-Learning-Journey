@@ -15,6 +15,7 @@ taskButton.addEventListener('click', () => {
      text: taskText,
      completed: false,
     }
+
     tasks.push(newTask)
     saveTasks()
     taskDisplay(newTask)
