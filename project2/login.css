@@ -60,6 +60,18 @@ button:hover{
 }
 .hedden{
     display: none;
-    background-color: red;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 2px rgb(black, grey, black);
+    border: none;
+}
+.p-hidden{
+    text-align: center;
+    font-size: larger;
+    color: blue;
 }
 
